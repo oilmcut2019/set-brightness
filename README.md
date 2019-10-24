@@ -27,7 +27,7 @@ The plus (+) and minus (-) buttons adjust monitor brightness, and contrast. Clic
 
 - make a folder .config in /root 
   
-$ cd /root
+  $ cd /root
   
   $ sudo mkdir .config
 
